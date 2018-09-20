@@ -35,7 +35,7 @@ Let's start with the basics: as you can see `public` folder is already there and
 
 #### Babel and Webpack
 
-Our project need to have two important packages that are necessary for compiling: `Babel` and `Webpack`.
+Our project needs to have two important packages that are necessary for compiling: `Babel` and `Webpack`.
 
 But don't worry, we took care of it. As well as of `webpack.config.js` file. :heavy_check_mark:
 
