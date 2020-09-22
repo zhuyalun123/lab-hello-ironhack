@@ -6,7 +6,7 @@
 
 We just learned the basics about creating a **Hello World** app in React, so we will use this exercise to re-do what we just learned (and hopefully to add some style :blossom: ).
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_3e87cc1f09c32a09911a65d94c1bd4f0.png)
+<!--  ![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_3e87cc1f09c32a09911a65d94c1bd4f0.png) -->
 
 ## Requirements
 
