@@ -45,7 +45,9 @@ You are ready to start creating your React app. First, add the packages you need
 
 Finally, let's create our landing page. In the `public` folder, you will find all the assets you need to recreate the following landing page:
 
-![home](https://user-images.githubusercontent.com/23629340/43718926-863a3c7a-998c-11e8-803b-7c9bc87425bb.png)
+<!-- ![home](https://user-images.githubusercontent.com/23629340/43718926-863a3c7a-998c-11e8-803b-7c9bc87425bb.png) -->
+
+![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_2c5c24ee05aa5fa68a76eee564ad44ee.png)
 
 For now, don't worry about creating more than one component, we will cover that in the following lessons!
 
